@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+@media(max-width:550px){
+    body{
+        width: 400px;
+        background-color: red;
+    }
+
+}
